@@ -1,4 +1,4 @@
 "firstName=Alex&lastName=Blom&address1=&address2=&pass1=Alex+Blom&creditCard=&expDate=&oldCCOpt"
-"ion=&numPassengers=1&seatType=First&seatPref=Aisle&outboundFlight=370%3B253%3B04%2F10%2F2021&a"
+"ion=&numPassengers=1&seatType=Coach&seatPref=Aisle&outboundFlight=270%3B819%3B04%2F12%2F2021&a"
 "dvanceDiscount=0&returnFlight=&JSFormSubmit=off&.cgifields=saveCC&buyFlights.x=65&buyFlights.y"
 "=6"
